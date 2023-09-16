@@ -495,7 +495,7 @@
     font-size: 22px;
   }
   .container .d41 .inn {
-    width: 40%;
+    width: 60%;
     height: 270px;
     z-index: 200;
     background-color: white;
@@ -530,11 +530,11 @@
   .container .d41 .inn .cls {
     position: absolute;
     bottom: 1%;
-    left: 35%;
+    left: 50%;
     font-size: 28px;
   }
   .container .d42 .inn {
-    width: 40%;
+    width: 60%;
     height: 270px;
     z-index: 200;
     background-color: white;
@@ -569,11 +569,11 @@
   .container .d42 .inn .cls {
     position: absolute;
     bottom: 1%;
-    left: 35%;
+    left: 50%;
     font-size: 28px;
   }
   .container .d43 .inn {
-    width: 40%;
+    width: 60%;
     height: 270px;
     z-index: 200;
     background-color: white;
@@ -608,11 +608,11 @@
   .container .d43 .inn .cls {
     position: absolute;
     bottom: 1%;
-    left: 35%;
+    left: 50%;
     font-size: 28px;
   }
   .container .d44 .inn {
-    width: 40%;
+    width: 60%;
     height: 270px;
     z-index: 200;
     background-color: white;
@@ -647,11 +647,11 @@
   .container .d44 .inn .cls {
     position: absolute;
     bottom: 1%;
-    left: 35%;
+    left: 50%;
     font-size: 28px;
   }
   .container .d45 .inn {
-    width: 40%;
+    width: 60%;
     height: 270px;
     z-index: 200;
     background-color: white;
@@ -686,11 +686,11 @@
   .container .d45 .inn .cls {
     position: absolute;
     bottom: 1%;
-    left: 35%;
+    left: 50%;
     font-size: 28px;
   }
   .container .d46 .inn {
-    width: 40%;
+    width: 60%;
     height: 270px;
     z-index: 200;
     background-color: white;
@@ -725,7 +725,7 @@
   .container .d46 .inn .cls {
     position: absolute;
     bottom: 1%;
-    left: 35%;
+    left: 50%;
     font-size: 28px;
   }
   .teext {
